@@ -8,6 +8,8 @@ checklist the owner signs off.
 > **This repository is a showcase.** It describes the kit and how it works. The issue forms, board setup,
 > checklists and CLAUDE.md themselves are private and come with the setup service.
 
+![The New issue page: four forms, App spec, Build task, Test finding or revision, and Release, with no blank-issue option.](issue-forms.png)
+
 ## The problem it solves
 
 AI makes specs and code fast to produce, and that moves the bottleneck to coordination. Specs arrive as long
@@ -30,6 +32,8 @@ The kit moves it into GitHub, where it holds no matter who is busy.
    owner approving that exact build.
 
 ## What the kit contains
+
+![The App spec form open: a required title, "What it should do" in the user's words, and a required Details field for AI-generated specs.](spec-form.png)
 
 - **Four GitHub issue forms:** Spec, Build task, Test finding or revision, and Release. Blank issues are switched
   off, so every piece of work arrives complete.
